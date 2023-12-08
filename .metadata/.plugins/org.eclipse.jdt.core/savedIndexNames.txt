@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+C:\Users\hbi1\Documents\javafullstack\java_ws\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1347296216.index
+2719993407.index
+2531616134.index
+2705867623.index

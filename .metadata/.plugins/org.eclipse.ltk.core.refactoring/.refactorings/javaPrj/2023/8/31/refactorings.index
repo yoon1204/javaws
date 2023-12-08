@@ -1,0 +1,151 @@
+1690848410821	Rename type 'Ex01'
+1690848419458	Move compilation unit
+1690848426517	Delete element
+1690848759398	Rename type 'calculatorClass'
+1690848766080	Rename type 'calculatorTest'
+1690848781933	Rename type 'jamesInfo'
+1690848947736	Rename type 'jamesTest'
+1690849005650	Rename type 'movieArr'
+1690849013611	Rename type 'movieClass'
+1690849019930	Rename type 'movieTest'
+1690849110613	Rename type 'ClothesTest'
+1690849172797	Rename type 'mile_test'
+1690849179634	Rename type 'mile'
+1690849222872	Rename type 'AdvancedTheater'
+1690849234515	Rename type 'CalculatorTest'
+1690849244856	Rename type 'CoffeData'
+1690849253590	Rename type 'Customers'
+1690849262678	Rename type 'Movie'
+1690849269453	Rename compilation unit 'ShoppingMall.java'
+1690849279346	Rename type 'Theater'
+1690849289937	Rename type 'VendingMachine'
+1690849361303	Rename compilation unit '자판기.java'
+1690849375963	Rename type '자판기Test'
+1690849406562	Rename type 'Info'
+1690849415447	Rename type 'InfoTest'
+1690849448319	Rename type 'Player'
+1690849455796	Rename type 'rpgGame'
+1690849495404	Rename compilation unit '김재열_객체데이터.java'
+1690849510475	Rename compilation unit '김재열_객체데이터Test.java'
+1690849537375	Rename type 'Library_'
+1690849570966	Rename type 'ClothesInfo'
+1690849602724	Rename type '길드가입신청서'
+1690849610084	Rename type '길드가입신청서Test'
+1690849639542	Rename type '박태민_quiz1_class'
+1690849646260	Rename type '박태민_quiz1'
+1690849754698	Delete element
+1690849757057	Delete element
+1690849764987	Rename type 'Mile_test'
+1690849770843	Rename type 'Mile'
+1690849834461	Rename type 'Mile2'
+1690849992489	Delete element
+1690850002315	Rename type 'Mile2Test'
+1690852061323	Delete element
+1690852430966	Delete element
+1690852492910	Rename type '예진님_movieClass'
+1690852500681	Rename type '예진님_movieTest'
+1690853594343	Delete element
+1690853748771	Delete element
+1690853833055	Delete element
+1690853992772	Delete element
+1690854058506	Delete element
+1690854061143	Delete element
+1690854064925	Delete element
+1690856351049	Delete element
+1690866333749	Rename type '박태민_james_class'
+1690866341319	Rename type '박태민_james'
+1690866347436	Rename type '박태민_mall_class'
+1690866355474	Rename type '박태민_mall'
+1690870352152	Copy compilation units
+1690870374817	Rename package 'algoPrj.day11.inheritance'
+1690870913638	Copy compilation units
+1690873252453	Delete element
+1690873276400	Delete element
+1690873293123	Delete element
+1690873299288	Rename compilation unit 'Ex03.java'
+1690875560693	Rename type 'Animal'
+1690875750173	Rename type '종현'
+1690876445340	Delete element
+1690877036848	Rename type 'key'
+1690878055917	Rename type 'Break'
+1690878894692	Rename compilation unit 'Stump.java'
+1690935205219	Rename type 'Pizza'
+1690935213209	Rename type 'PizzaTest'
+1690935218758	Rename type '불고기피자'
+1690935224255	Rename type '하와이안피자'
+1690936033648	Rename type 'Animal'
+1690936039408	Rename type 'Cat'
+1690936044610	Rename type 'Dog'
+1690936049819	Rename type '오버라이딩'
+1690936785965	Rename type 'Library'
+1690936792691	Rename type 'LibraryTest'
+1690936799801	Rename type '부의인문학'
+1690936805491	Rename type '자바의정석'
+1690937030457	Delete element
+1690937039152	Rename type '오버라이딩'
+1690937099238	Rename type '에이콘'
+1690937105810	Rename type '에자3수'
+1690937111889	Rename type '연습'
+1690941850600	Rename package 'algoPrj.day11.상속'
+1690945503910	Rename type 'Gram'
+1690945535920	Rename type 'Notebook'
+1690945541579	Rename type 'NotebookTest'
+1690946204364	Rename type 'Animal'
+1690946210872	Rename type 'AnimalInfo'
+1690946216655	Rename type 'Test'
+1690947096089	Rename compilation unit 'Person2.java'
+1690947677883	Rename type 'LY'
+1690952608184	Delete element
+1690952731779	Rename compilation unit '단야님_Dance.java'
+1690952742501	Rename compilation unit '민규님_PersonMin.java'
+1690952822791	Delete element
+1690952833433	Delete element
+1690953987529	Rename compilation unit 'Kjy2.java'
+1690954561014	Delete element
+1690954563383	Delete element
+1690954565661	Delete element
+1690954796631	Rename compilation unit 'MyCaculator.java'
+1690955067739	Rename type 'Calculator'
+1690955330536	Rename type 'MyCalculator'
+1690955556634	Delete element
+1690955598594	Delete element
+1690961873774	Rename compilation unit '태민계산기클래스.java'
+1690961938091	Delete element
+1690962461005	Rename type 'Ex01'
+1690963478280	Rename type '치즈김밥'
+1691021196061	Rename package 'algoPrj.day13'
+1691024746869	Delete element
+1691025755675	Delete element
+1691025759676	Rename compilation unit 'ScoreTest3.java'
+1691044557456	Rename package '이윤실기평가'
+1691044566038	Rename package 'algoPrj.이윤실기평가'
+1691046696355	Rename type 'Ex04'
+1691048722860	Extract method 'getTotal'
+1691050511721	Extract method '출력'
+1691107749474	Delete element
+1691107756415	Move compilation unit
+1691109178504	Rename compilation unit '실습.java'
+1691109467656	Copy compilation unit
+1691109476196	Rename type 'Student2'
+1691109480517	Rename type 'LY_Student2'
+1691113466542	Copy compilation unit
+1691114522007	Rename type 'Ex2'
+1691115547803	Delete element
+1691115552745	Delete element
+1691115567272	Rename package 'algoPrj.day14'
+1691117081700	Delete element
+1691118707153	Delete element
+1691118710317	Rename compilation unit 'Ex02.java'
+1691125866439	Delete element
+1691126076617	Delete element
+1691126784137	Delete element
+1691127479876	Delete element
+1691129013786	Delete element
+1691129299123	Delete element
+1691129315603	Delete element
+1691129384025	Delete element
+1691129387551	Delete element
+1691129550159	Delete elements
+1691129553546	Delete element
+1691130236637	Delete element
+1691131382700	Delete element

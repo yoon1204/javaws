@@ -1,0 +1,85 @@
+1690161289159	Rename type 'Ex01'
+1690163308697	Delete element
+1690165503340	Copy compilation unit
+1690166912963	Delete element
+1690166986595	Rename resource 'data'
+1690167016598	Delete element
+1690167299919	Delete element
+1690169395003	Delete element
+1690169479394	Rename type 'FileEx2'
+1690169487269	Rename type 'FileEx3'
+1690169496773	Rename type 'FileEx4'
+1690183961542	Copy compilation unit
+1690184170054	Copy compilation unit
+1690184178514	Delete element
+1690185619832	Delete element
+1690185627265	Rename compilation unit 'Ex8_2.java'
+1690187902179	Delete element
+1690188004070	Delete element
+1690188043073	Delete element
+1690243518525	Rename package 'day4'
+1690261205792	Delete element
+1690266574881	Delete element
+1690269085496	Delete element
+1690269310453	Delete element
+1690331423619	Rename compilation unit '배열문제.java'
+1690332525215	Rename type '배열문제'
+1690350063255	Rename type '예진님화폐구하기3'
+1690351339920	Rename type '예진님화폐구하기'
+1690351367480	Rename type '예진님화폐구하기_반복문'
+1690357058324	Copy compilation unit
+1690357649442	Delete element
+1690359028576	Delete element
+1690360668440	Copy compilation unit
+1690361028783	Copy compilation unit
+1690415809955	Rename package 'day7.함수'
+1690415831651	Rename package 'algo.day7'
+1690416147141	Rename type 'Ex8'
+1690416153961	Rename type 'Ex9'
+1690417965072	Extract method 'extracted'
+1690418034060	Extract method 'extracted'
+1690418167155	Copy compilation unit
+1690418360970	Extract method 'getSum2'
+1690418461791	Extract method 'getSum2'
+1690418681727	Extract method 'getSum3'
+1690421190159	Extract method 'getMoneyCount'
+1690425547585	Copy compilation unit
+1690425611604	Delete element
+1690427069910	Copy compilation unit
+1690427217239	Extract method 'selectDays'
+1690427291652	Delete element
+1690427409517	Copy compilation unit
+1690427505658	Extract method 'selectDays'
+1690427814252	Extract method 'insertDay'
+1690428605796	Extract method 'insertDay'
+1690428827671	Extract method 'selectDay'
+1690428945972	Copy compilation unit
+1690429039352	Rename type 'Ex09'
+1690429047802	Rename type 'Ex10'
+1690429052163	Rename type 'Ex11'
+1690429065577	Delete element
+1690435848774	Rename type '함수실습'
+1690446654538	Rename compilation unit 'myLib.java'
+1690504202947	Delete element
+1690504333293	Extract method 'insertItem'
+1690504471966	Extract method 'select'
+1690504589775	Delete element
+1690504634926	Delete element
+1690504680253	Delete element
+1690504761535	Extract method 'insertItem'
+1690504827171	Extract method 'select'
+1690504949042	Delete element
+1690505353537	Extract method 'printArray'
+1690508391693	Extract method 'abc'
+1690508399008	Extract method 'def'
+1690513627356	Delete element
+1690513756476	Delete element
+1690514445464	Move compilation unit
+1690521065407	Delete element
+1690521318093	Delete element
+1690522617588	Delete element
+1690525118511	Copy compilation unit
+1690526545537	Copy compilation unit
+1690526555099	Delete element
+1690531902405	Delete element
+1690532881264	Delete element
